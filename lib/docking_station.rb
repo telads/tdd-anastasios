@@ -15,6 +15,10 @@ def dock(bike)
 
 end
 
+def notrelease(bike)
+
+end
+
 
 end
 
